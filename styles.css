@@ -1,0 +1,28 @@
+nav {
+    background-color: bisque;
+    width: 100%;
+    padding: 27px;
+}
+ul {
+    padding-left: 600px;
+    margin: -8px;
+    font-size: larger;
+}
+nav ul a:hover {
+    color: red;
+}
+nav ul a{
+    text-decoration-line: none;
+}
+h1 {
+    text-align: center;
+    color: crimson;
+}
+table {
+    text-align: start;
+    border: aqua;
+}
+img {
+    width: 490px;
+    height: 120px;
+}
